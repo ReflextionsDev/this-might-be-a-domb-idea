@@ -9,7 +9,9 @@ p.innerHTML = 'Lorem ipsum dolor amet viral meh selfies drinking vinegar, intell
 
 const item13 = document.querySelector('#item-13')
 item13.style.opacity = '0.5'
-item13.innerHTML = 'I say, "Hi!"'
+
+const item3 = document.getElementById('item-3')
+item3.innerHTML = 'I say, "Hi!"'
 
 const img = document.querySelector('img')
 img.src = 'http://www.tioxic.com/wp-content/uploads/trex_4.jpg'
