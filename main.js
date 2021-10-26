@@ -17,6 +17,11 @@ const img = document.querySelector('img')
 img.src = 'http://www.tioxic.com/wp-content/uploads/trex_4.jpg'
 img.height = '300'
 
+const img2 = document.querySelector('img2')
+img2.src = 'https://www.cleanwateraction.org/sites/default/files/styles/blog_front_480x333/public/images/features/Water_clear%20water.jpg?itok=mx9WxKI9'
+img2.height = '300'
+
+
 const item16 = document.querySelector('#item-16')
 item16.classList.add('item')
 item16.innerHTML = "Won't get fooled again."
